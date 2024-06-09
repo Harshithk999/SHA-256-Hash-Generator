@@ -5,11 +5,11 @@ To Build and Run the Application : <br>
 run the following commands in your terminal 
 - mvn clean install
 - mvn spring-boot:run
-  
-  Open your browser and navigate to http://localhost:8081.
-  Enter text in the input field.
-  Click the "Generate Hash" button.
-  The SHA-256 hash should be displayed below the button.
+
+Open your browser and navigate to http://localhost:8081.
+Enter text in the input field.
+Click the "Generate Hash" button.
+The SHA-256 hash should be displayed below the button.
 
 IMAGES OF THE OUPTUT
 ![Screenshot 2024-06-09 at 11 12 15 AM](https://github.com/Harshithk999/SHA-256-Hash-Generator/assets/120638852/7ecbebdd-d2d7-4a88-9d67-069fd28fc2b0)

@@ -4,7 +4,8 @@ The SHA-256 Hash Generator is a web-based application designed to provide users 
 To Build and Run the Application : <br>
 run the following commands in your terminal 
 - mvn clean install
-- mvn spring-boot:run <br/>
+- mvn spring-boot:run
+  
   Open your browser and navigate to http://localhost:8081.
   Enter text in the input field.
   Click the "Generate Hash" button.
